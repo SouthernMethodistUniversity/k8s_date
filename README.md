@@ -20,7 +20,7 @@ the order and links given
 - [Pods](https://kubernetes.io/docs/concepts/workloads/pods/)
 - [Workloads](https://kubernetes.io/docs/concepts/workloads/controllers/)
 - [Tools](https://kubernetes.io/docs/tasks/tools/)
-  - kubectl
+  - [kubectl](https://kubernetes.io/docs/reference/kubectl/)
   - [minikube](https://minikube.sigs.k8s.io/docs/start/)
 - Tutorials
   - [Hello Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/)
