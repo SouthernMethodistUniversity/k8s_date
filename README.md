@@ -6,8 +6,8 @@ that can be deployed via Kubernetes.
 ## Material
 
 All the material is sourced directly from the various tools' documentation with
-the order and links given
-[here](https://github.com/SouthernMethodistUniversity/k8s_date).
+the order and links given at 
+<https://github.com/SouthernMethodistUniversity/k8s_date>.
 
 ## Agenda
 
